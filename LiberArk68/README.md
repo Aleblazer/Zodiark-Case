@@ -7,7 +7,6 @@ mounting, and slide faders.
 ## Printing a complete case
 
 Each **half** needs three parts — a **Bottom**, a **Top**, and a **Plate**.
-A full keyboard is two halves.
 
 > [!IMPORTANT]
 > The provided files are for the **left** half. **Mirror** the parts in your
